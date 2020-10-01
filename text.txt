@@ -2,3 +2,5 @@
 Initial Commit
 
 local line 4
+MERGE CONFLICT
+
